@@ -25,7 +25,7 @@ Instalacija programskog jezika Python (verzija mora biti najmanje 3.* i namenjen
 
 Izaberite željenu putanju na vešem sistemu gde želite da skinete materijale za vežbe (PATH) i u kojoj želite da implementirate domaće zadatke.
 
-1. Materijale možete naći na sledećem [linku][2].
+1. Materijale možete skinuti klikom na zeleno dugme 'Clone or download'.
 
 2.  Otvorite command-line interface (CLI) i pokrenite sledeće komande:
 
@@ -38,8 +38,6 @@ Izaberite željenu putanju na vešem sistemu gde želite da skinete materijale z
 	Za Windows korisnike: `env\Scripts\activate`
 
 6. `pip install -r requirements.txt`
-
-[2]: https://github.com/mcerovic/machine-learning`
 
 # 3. Pokretanje
 
