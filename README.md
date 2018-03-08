@@ -4,12 +4,12 @@ Instalacija programskog jezika Python (verzija mora biti najmanje 3.* i namenjen
 
 ## Windows
 
-1. Skinite instalaciju za Python klikom na [link][1] i prilikom instalacije čekirajte `Add Python 3.6 to PATH`. Zatim pokreniti `cmd.exe` i unesite sledeću komandu:
+1. Skinite instalaciju za Python klikom na [link][1] i prilikom instalacije čekirajte `Add Python 3.6 to PATH`. Zatim pokrenite `cmd.exe` i unesite sledeću komandu:
 
 	`pip install virtualenv`
 
 ## Linux
-1. Linux sistemi uglavnom dolaze sa instaliranim Python-om, ukoliko nemate Python neophodno je da ga instalirate korišećenjem nekog od paket menadžera ili skidanjem instalera sa oficijalnog sajta. Nako toga pokrenite sledeću komandu:
+1. Linux sistemi uglavnom dolaze sa instaliranim Python-om, ukoliko nemate Python neophodno je da ga instalirate korišćenjem nekog od paket menadžera ili skidanjem instalera sa oficijalnog sajta. Nakon toga pokrenite sledeću komandu:
 
   	`sudo pip3 install virtualenv `
 
@@ -23,13 +23,13 @@ Instalacija programskog jezika Python (verzija mora biti najmanje 3.* i namenjen
 
 # 2. Materijali i instalacija neophodnih paketa
 
-Izaberite željenu putanju na vešem sistemu gde želite da skinete materijale za vežbe (PATH) i u kojoj želite da implementirate domaće zadatke.
+Izaberite željenu putanju na vašem sistemu gde želite da skinete materijale za vežbe (PATH) i u kojoj želite da implementirate domaće zadatke.
 
-1. Materijale možete naći na sledećem [linku][2].
+1. Materijale možete skinuti klikom na zeleno dugme 'Clone or download'.
 
 2.  Otvorite command-line interface (CLI) i pokrenite sledeće komande:
 
-3. `cd PATH/machine-learning`
+3. `cd PATH/machine_learning`
 
 4. `virtualenv env`
 
@@ -39,15 +39,13 @@ Izaberite željenu putanju na vešem sistemu gde želite da skinete materijale z
 
 6. `pip install -r requirements.txt`
 
-[2]: https://github.com/mcerovic/machine-learning`
-
 # 3. Pokretanje
 
 Kada ste uspešno skinuli projekat (PATH je putanja do foldera koji ste skinuli) i instalirali neophodne pakete pri svakom sledećem radu projekat se pokreće na sledeći način:
 
 1. Lociranje projektnog foldera:
 
-	`cd PATH/machine-learning`
+	`cd PATH/machine_learning`
 
 2. Aktivacija virtuelnog okruženja:
 
