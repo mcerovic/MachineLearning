@@ -1,0 +1,2 @@
+model_checkpoint_path: "logistic_regression"
+all_model_checkpoint_paths: "logistic_regression"
