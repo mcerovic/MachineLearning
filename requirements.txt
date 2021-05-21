@@ -1,5 +1,5 @@
 jupyter==1.0.0
 matplotlib==2.1.1
-tensorflow==1.5.0
+tensorflow==2.5.0
 opencv-python==3.4.0.12
 nltk==3.2.5
